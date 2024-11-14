@@ -1,4 +1,9 @@
-package PACKAGE_NAME;
+public class Consumable {
 
-public class consumble {
+public int usesMax;
+public int usesCurrent;
+public void use(Character target){
+
+    }
+
 }
